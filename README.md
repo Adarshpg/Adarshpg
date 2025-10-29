@@ -3,7 +3,12 @@
 </div>  
   
 
-### <div align="center">Hi I'm Adarsh, a full-stack freelance developer 👨‍💻 Develop webssite's since 2022 🚀</div>  
+### <div align="center">👋 Hi, I’m Adarsh Gayadolli
+💻 I’m a Software Developer passionate about building smart and user-friendly applications.
+🚀 I love working with Python, Machine Learning, and Web Development.
+📚 Always exploring new technologies and improving my skills.
+🌱 Currently learning more about AI & Full Stack Development.
+📫 Reach me at: gayadolliadarsh@gmail.com</div>  
 
 
 ## 🌐 Socials:
