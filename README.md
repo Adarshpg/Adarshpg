@@ -1,4 +1,3 @@
-
 ### <div align="center">
 👋 Hi, I’m **Adarsh Gayadolli**  
 💻 I’m a **Software Developer** currently building modern and responsive websites.  
