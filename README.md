@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi I'm Ganesh, a full-stack freelance developer 👨‍💻 Develop webssite's since 2022 🚀</div>  
+### <div align="center">Hi I'm Adarsh, a full-stack freelance developer 👨‍💻 Develop webssite's since 2022 🚀</div>  
 
 
 ## 🌐 Socials:
