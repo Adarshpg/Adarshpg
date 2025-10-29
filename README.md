@@ -1,17 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 
 ### <div align="center">
 👋 Hi, I’m **Adarsh Gayadolli**  
 💻 I’m a **Software Developer** currently building modern and responsive websites.  
-🚀 Passionate about creating efficient, user-friendly web applications.  
+🚀 Passionate about **creating efficient web applications** and **digital marketing**.  
 🌱 Exploring new technologies and improving my full-stack development skills.  
 📫 Reach me at: **gayadolliadarsh@gmail.com**  
 </div>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]((https://www.instagram.com/adarsh_1_0_1/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/adarsh-gayadolli-6a2584254/)) 
