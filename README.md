@@ -1,3 +1,8 @@
+## 👀 Profile Visitors:
+![Visitor Count](https://komarev.com/ghpvc/?username=Adarshpg&color=blue&style=for-the-badge)
+
+---
+
 ### <div align="center">
 👋 Hi, I’m **Adarsh Gayadolli**  
 💻 I’m a **Software Developer** currently building modern and responsive websites.  
@@ -24,8 +29,3 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 👀 Profile Visitors:
-![Visitor Count](https://komarev.com/ghpvc/?username=Adarshpg&color=blue&style=for-the-badge)
