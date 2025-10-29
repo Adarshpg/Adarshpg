@@ -16,9 +16,11 @@ I’m a **Software Developer** currently building modern and responsive websites
 ---
 
 ## 🌐 Socials
+<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_1_0_1/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gayadolli-6a2584254/)  
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/gayadolli36792)
+</div>
 
 ---
 
